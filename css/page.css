@@ -1,9 +1,17 @@
 body {
     font-family: 'Roboto', sans-serif;
+    margin: 0 auto;
+    text-align: center;
     
 }
-div {
-   text-align: center;
-    margin: 0px, 0 auto;
-   
+div.a {
+   border-bottom: center;
+   border-style: solid;
+   border-color: #ffffff #ffffff #C0C0C0 #ffffff;
+   font-size: 36px;
+   line-height: 36px;
+}
+p {
+    font-size: 20px;
+    line-height: 26px; 
 }
